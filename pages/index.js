@@ -22,7 +22,7 @@ export default function Home({  allPostsData  }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello, I'm Jonas. I'm a digital consultant and creative mind. You can contact me on <a href='https://www.twitter.com/jonasvw_'>Twitter</a>.</p>
+        <p>Hello, I'm Jonas. I'm a digital consultant and creative mind. Feel free to contact me on <a href='https://www.twitter.com/jonasvw_'>Twitter</a>.</p>
         <p>
           (This is a sample website - I am building with{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
